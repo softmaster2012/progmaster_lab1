@@ -11,3 +11,16 @@ body {
     border: 1px solid lightgrey;    
     box-shadow: 0 0 30px lightgrey, inset 0 0 30px bisque;
 }
+header h1 {
+    color: darkviolet;
+    text-shadow: 5px 3px yellow, 0 0 20px tan;
+}
+header h2 {
+    color: cadetblue;
+}
+header table {
+    width: 100%;
+}
+.side {
+    width: 200px;
+}
